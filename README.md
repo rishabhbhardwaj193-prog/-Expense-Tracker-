@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A responsive personal finance management web application built using Flask, SQLite, Bootstrap, and Matplotlib. It allows users to manage income and expenses, visualize spending through charts, filter transactions, and export data as CSV.
+A responsive personal finance management web application built using Flask, SQLite, Bootstrap, and Matplotlib. 
 
 ## Live Demo
 
@@ -8,7 +8,7 @@ A responsive personal finance management web application built using Flask, SQLi
 
 ## GitHub Repository
 
-https://github.com/0310-Nitish/expense-tracker-flask
+https://github.com/0310-Rishabh/expense-tracker-flask
 
 ---
 
@@ -43,7 +43,7 @@ https://github.com/0310-Nitish/expense-tracker-flask
 ## Installation
 
 ```bash
-git clone https://github.com/0310-Nitish/expense-tracker-flask.git
+git clone https://github.com/rishabhbhardwaj193-prog/expense-tracker-flask.git
 
 cd expense-tracker-flask
 
@@ -104,5 +104,4 @@ Expense Tracker
 This project is developed for educational purposes.
 
 ## Author
-
-Nitish Kumar Saini
+Rishabh Bharadwaj
