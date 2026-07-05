@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+expense.db
+static/images/pie_chart.png
+static/images/bar_chart.png
+.vscode/
